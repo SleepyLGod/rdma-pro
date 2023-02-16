@@ -1,4 +1,4 @@
-# rdma-pro
+# rdma-pro (will be updated after submitting the paper...)
 
 + 🌃 Interfaces for RDMA access.
 + 🌃 Requires: C++ compiler with C++20 standard support and `libibverbs` development headers installed.
